@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [Your Name], a **Software Development Engineer in Test (SDET)** with experience in developing and maintaining scalable automation frameworks using **Java, Selenium, TestNG, Cucumber (BDD), Playwright, and Appium**. I love building robust frameworks, automating end-to-end testing, and ensuring software quality in Agile environments.  
+I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with experience in developing and maintaining scalable automation frameworks using **Java, Selenium, TestNG, Cucumber (BDD), Playwright, and Appium**. I love building robust frameworks, automating end-to-end testing, and ensuring software quality in Agile environments.  
 
 ---
 
@@ -13,22 +13,8 @@ I'm [Your Name], a **Software Development Engineer in Test (SDET)** with experie
 - Advanced **API automation frameworks** and **cloud-based testing solutions**.
 - Improving **test architecture and reporting** using Allure and ChainTest.  
 
-### 👯 I’m looking to collaborate on
-- Open-source **test automation frameworks**.
-- Projects using **Java, Selenium, Playwright, and Appium**.  
-
-### 💬 Ask me about
-- Test automation best practices
-- Selenium WebDriver, TestNG, and Cucumber BDD
-- Playwright (JavaScript) and Appium  
-
-### 📫 How to reach me
-- LinkedIn: Meenaa Kannan(https://linkedin.com/in/meenaakannan)  
-- Email: your.email@example.com  
-
-### ⚡ Fun fact
-- I once scraped **7,000+ diet-specific recipes** and built a **PostgreSQL database** for efficient storage.  
-
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/meenaakannan)  
 ---
 
 ## 🛠 Technologies & Tools
@@ -80,5 +66,5 @@ I'm [Your Name], a **Software Development Engineer in Test (SDET)** with experie
 
 ## 📈 GitHub Stats
 
-![Your Name GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your Name GitHub stats](https://github-readme-stats.vercel.app/api?username=meenaa1&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meenaa1&layout=compact&theme=radical)
