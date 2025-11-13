@@ -58,7 +58,7 @@ I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with exper
 ---
 
 ## 📝 Blogs & Articles
-- [Thread-Local Singleton Pattern in Selenium Frameworks](#)  
+- [Thread-Local Singleton Pattern in Selenium Frameworks](https://medium.com/@meenaa.kannan1/one-driver-to-rule-them-all-understanding-the-thread-local-singleton-pattern-in-selenium-b51c8b20abfd)  
 - [Cucumber BDD Framework in IntelliJ IDE](#)  
 - [Automating Cucumber Test Projects with GitHub and Jenkins](#)  
 
