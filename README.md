@@ -66,5 +66,5 @@ I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with exper
 
 ## 📈 GitHub Stats
 
-![Your Name GitHub stats](https://github-readme-stats.vercel.app/api?username=meenaa1&show_icons=true&theme=radical)  
+//![Your Name GitHub stats](https://github-readme-stats.vercel.app/api?username=meenaa1&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meenaa1&layout=compact&theme=radical)
