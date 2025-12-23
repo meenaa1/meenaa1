@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with experience in developing and maintaining scalable automation frameworks using **Java, Selenium, TestNG, Cucumber (BDD), Playwright, and Appium**. I love building robust frameworks, automating end-to-end testing, and ensuring software quality in Agile environments.  
-![Profile Views](https://komarev.com/ghpvc/?username=meenaa1&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ---
 
@@ -68,3 +68,4 @@ I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with exper
 ## 📈 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meenaa1&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=meenaa1&label=Profile%20Views&color=0e75b6&style=flat)
