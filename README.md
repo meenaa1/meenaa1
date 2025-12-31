@@ -54,7 +54,8 @@ I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with exper
 - Scraped **7,000+ diet-specific recipes** and designed a **PostgreSQL database**.  
 - Built **data-driven Appium framework** for Android automation.  
 - Generated detailed test reports using **Extent Reports, Allure, ChainTest**.  
-- Conducted cross-browser testing and defect tracking in **JIRA**.  
+- Conducted cross-browser testing and defect tracking in **JIRA**.
+- Learning and experimenting with **Vibium** to enhance automation capabilities.
 
 ---
 
