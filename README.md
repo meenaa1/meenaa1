@@ -6,10 +6,9 @@ I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with exper
 ---
 
 ### 🔭 I’m currently working on
-- Building **scalable automation frameworks** using Java, Selenium, and Playwright.
+- Building **scalable automation frameworks** using Java, Selenium, Playwright, and now exploring **Python with Selenium**.
 - Enhancing **BDD automation** with Cucumber and Gherkin.
-- Integrating **test automation with CI/CD pipelines** using Jenkins and Docker.  
-
+- Integrating **test automation with CI/CD pipelines** using Jenkins and Docker.
 ### 🌱 I’m currently learning
 - Advanced **API automation frameworks** and **cloud-based testing solutions**.
 - Improving **test architecture and reporting** using Allure and ChainTest.  
@@ -24,6 +23,8 @@ I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with exper
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### Automation & Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge)
@@ -32,6 +33,8 @@ I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with exper
 ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright)
 ![Appium](https://img.shields.io/badge/Appium-0ABF53?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge)
+![Rest-Assured](https://img.shields.io/badge/Rest--Assured-007396?style=for-the-badge&logo=res-assured&logoColor=white)
+
 
 ### CI/CD & Version Control
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
