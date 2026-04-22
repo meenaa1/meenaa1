@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with experience in developing and maintaining scalable automation frameworks using **Java, Selenium, TestNG, Cucumber (BDD), Playwright, and Appium**. I love building robust frameworks, automating end-to-end testing, and ensuring software quality in Agile environments.  
+I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with experience in developing and maintaining scalable automation frameworks using **Java, Python, Selenium, TestNG, Cucumber (BDD), Playwright, and Appium**. I love building robust frameworks, automating end-to-end testing, and ensuring software quality in Agile environments.  
 
 
 ---
