@@ -51,7 +51,7 @@ I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with exper
 ## 💼 Professional Experience
 
 **Numpy Ninja Inc** — *SDET* (Dec 2024 – Present)  
-- Developed scalable automation frameworks using **Java, Selenium, TestNG, Cucumber, Playwright**.  
+- Developed scalable automation frameworks using **Java, Python, Selenium, TestNG, Cucumber, Playwright**.  
 - Built **BDD frameworks** with reusable Gherkin step definitions.  
 - Integrated frameworks with **CI/CD pipelines** using Jenkins and Docker.  
 - Scraped **7,000+ diet-specific recipes** and designed a **PostgreSQL database**.  
