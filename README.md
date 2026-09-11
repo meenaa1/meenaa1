@@ -6,12 +6,16 @@ I'm Meenaa Kannan, a **Software Development Engineer in Test (SDET)** with exper
 ---
 
 ### 🔭 I’m currently working on
-- Building **scalable automation frameworks** using Java, Selenium, Playwright, and now exploring **Python with Selenium**.
-- Enhancing **BDD automation** with Cucumber and Gherkin.
-- Integrating **test automation with CI/CD pipelines** using Jenkins and Docker.
+- Building **scalable automation frameworks** using Java, Python, Selenium, Playwright, and **Cypress**.
+- Developing **Agentic AI workflows** for autonomous test generation, self-healing locators, and root-cause failure analysis.
+- Enhancing **BDD automation** with Cucumber, Behave, and Gherkin.
+- Integrating **test automation with CI/CD pipelines**  Docker.
+
 ### 🌱 I’m currently learning
-- Advanced **API automation frameworks** and **cloud-based testing solutions**.
-- Improving **test architecture and reporting** using Allure and ChainTest.  
+- **Agentic AI & LLM orchestration** (LangGraph / AutoGen / CrewAI) applied to Quality Engineering.
+- Advanced **Cypress end-to-end and API testing** strategies.
+- Advanced **cloud-based testing solutions**.
+
 
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/meenaakannan)  
